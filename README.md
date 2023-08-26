@@ -11,7 +11,8 @@
 <hr/>
 <h4 align="center">There is nothing more exciting to me than bringing my ideas to life with programming. I enjoy every step of the process, from designing the logic to debugging the errors. Programming is my passion and my way of expressing myself creatively.</h4>
 <be>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <h2> Tech Stacks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
