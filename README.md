@@ -28,9 +28,9 @@
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
 
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
+   <a href="https://searchvectorlogo.com/anaconda-inc-logo-vector-svg/" target="_blank">
+    <img src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png" />
+</a>
 
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
