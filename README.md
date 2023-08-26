@@ -12,48 +12,4 @@
 <h4 align="center">There is nothing more exciting to me than bringing my ideas to life with programming. I enjoy every step of the process, from designing the logic to debugging the errors. Programming is my passion and my way of expressing myself creatively.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hamidrz4&label=Profile%20views&color=0e75b6&style=plastic" alt="Hamidrz4" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrz4&theme=algolia" alt="Hamidrz4"  /></p>
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c#,discord,github,linux,mysql,python,jupyter,anaconda,pandas,matplotlib,numpy,vscode&perline=5" />
-  </a>
 </p>
-
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hamidreza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hamidrz4&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamidrz4&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Hamidrz4" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-
-<br/>
-
-## 🙋‍♂️ Let's Connect
-<p align="center">
-	<a href="mailto:Hamiidreza.nourii@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Hamidrz4"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/hamidreza-nouri-bb2694250"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-<hr/>
