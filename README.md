@@ -10,11 +10,10 @@
 
 <hr/>
 <h4 align="center">There is nothing more exciting to me than bringing my ideas to life with programming. I enjoy every step of the process, from designing the logic to debugging the errors. Programming is my passion and my way of expressing myself creatively.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hamidrz4&label=Profile%20views&color=0e75b6&style=plastic" alt="Hamidrz4" /> </p>
-</p>
+<be>
+
 <div align="center">
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Tech Stacks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
