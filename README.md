@@ -8,7 +8,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr/>
+
 <h4 align="center">There is nothing more exciting to me than bringing my ideas to life with programming. I enjoy every step of the process, from designing the logic to debugging the errors. Programming is my passion and my way of expressing myself creatively.</h4>
 <be>
 <!--horizontal divider(gradiant)-->
