@@ -45,9 +45,6 @@
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
 
-  <a href="https://seaborn.pydata.org/" target="_blank">
-   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3498db?style=for-the-badge&logo=seaborn&logoColor=white">
-</a>
 
   <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
    <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white">
