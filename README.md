@@ -62,7 +62,7 @@
 </a>
 
    <a href="https://garudalinux.org/" target="_blank">
-    <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda_Linux-32b8c4?style=for-the-badge&logo=Garuda.png&logoColor=white">
+    <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda_Linux-32b8c4?style=for-the-badge&logo=https://github.com/Hamidrz4/Hamidrz4/blob/main/Garuda.png&logoColor=white">
 </a>
   
   
