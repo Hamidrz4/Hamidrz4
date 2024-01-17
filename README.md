@@ -55,7 +55,15 @@
 
    <a href="https://www.postgresql.org/" target="_blank">
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a>   
+  </a>
+
+  <a href="https://archlinux.org/" target="_blank">
+   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+</a>
+
+  <a href="https://garudalinux.org/" target="_blank">
+   <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda_Linux-32b8c4?style=for-the-badge&logo=arch-linux&logoColor=white">
+</a>
   
   
 
