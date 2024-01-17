@@ -61,8 +61,8 @@
    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </a>
 
-  <a href="https://garudalinux.org/" target="_blank">
-   <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda_Linux-32b8c4?style=for-the-badge&logo=arch-linux&logoColor=white">
+   <a href="https://garudalinux.org/" target="_blank">
+    <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda_Linux-32b8c4?style=for-the-badge&logo=garuda-linux&logoColor=white">
 </a>
   
   
