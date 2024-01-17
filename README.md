@@ -35,7 +35,11 @@
    <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
-  
+
+  <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
+  <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+</a>
+
    <a href="https://www.postgresql.org/" target="_blank">
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>   
