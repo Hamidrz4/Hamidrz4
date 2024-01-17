@@ -28,9 +28,22 @@
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
 
+  <a href="https://scrapy.org/" target="_blank">
+   <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-3776AB?style=for-the-badge&logo=scrapy&logoColor=white">
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
+
+
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
+
+  <a href="https://numpy.org/" target="_blank">
+   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
 
    <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
