@@ -58,18 +58,6 @@
   <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn - Machine learning library">
     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-  <a href="https://scrapy.org/" target="_blank" title="Scrapy - Web scraping framework">
-    <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-43B02A?style=for-the-badge&logo=scrapy&logoColor=white">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas - Data analysis library">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy - Scientific computing library">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-  <a href="https://plotly.com/" target="_blank" title="Plotly - Data visualization framework">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
   <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank" title="PyQt - GUI library">
     <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   </a>
@@ -85,6 +73,6 @@
   <h3>
     🚀 Let's Build Something Amazing Together! 🚀
   </h3>
-  <p>Feel free to reach out via <a href="https://github.com/hamidreza">GitHub</a> or connect with me on <a href="https://linkedin.com">LinkedIn</a>.</p>
+  <p>Feel free to reach out via <a href="https://github.com/Hamidrz4">GitHub</a> or connect with me on <a href="https://linkedin.com">LinkedIn</a>.</p>
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120">
 </div>
