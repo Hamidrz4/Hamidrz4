@@ -1,87 +1,90 @@
-<!-- Divider (Gradient) -->
+<!-- Divider with Gradient -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- Introduction -->
+<!-- Title Section with Emojis and Animations -->
 <h1 align="center">
-  Hi, I'm Hamidreza 
+  Hey there, I'm Hamidreza! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=BioMedical+Informatics+Student;Machine+Learning+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=BioMedical+Informatics+Student;Machine+Learning+Engineer;DS%20%7C%20AI%20%7C%20ML%20Enthusiast;Always%20learning%20new%20things!&center=true&width=600&height=50&font=Fira+Code&color=F75C7E&vCenter=true&size=22">
   </a>
 </p>
 
-<!-- Divider (Gradient) -->
+<!-- Gradient Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- About Me -->
-<h4 align="center">
-  There is nothing more exciting to me than bringing my ideas to life with programming. 
-  I enjoy every step of the process, from designing the logic to debugging the errors. 
-  Programming is my passion and my way of expressing myself creatively.
-</h4>
-
-<!-- Divider (Gradient) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- Tech Stack -->
+<!-- About Me Section -->
 <div align="center">
-  <h1> 
-    Tech Stacks 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  </h1>
+  <h3>✨ About Me ✨</h3>
+  <p>
+    There’s nothing more exciting to me than bringing my ideas to life with <strong>programming</strong>. 
+    I love the entire process — from designing logic to debugging errors. Programming is my passion 
+    and my creative outlet! 🎨💻
+  </p>
+</div>
+
+<!-- Tech Stacks Section -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<div align="center">
+  <h2>
+    🔥 Tech Stacks I Use 🔥
+  </h2>
+  <p>Hover to learn more!</p>
   
-  <!-- Technology Badges -->
-  <a href="https://angular.io/" target="_blank">
+  <!-- Tech Badges -->
+  <a href="https://angular.io/" target="_blank" title="Angular - A web application framework">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" title="Python - A programming language">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://keras.io/" target="_blank">
+  <a href="https://keras.io/" target="_blank" title="Keras - Deep learning library">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   </a>
-  <a href="https://streamlit.io/" target="_blank">
+  <a href="https://streamlit.io/" target="_blank" title="Streamlit - Build data-driven apps">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn - Machine learning library">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-  <a href="https://scrapy.org/" target="_blank">
-    <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-3776AB?style=for-the-badge&logo=scrapy&logoColor=white">
+  <a href="https://scrapy.org/" target="_blank" title="Scrapy - Web scraping framework">
+    <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-43B02A?style=for-the-badge&logo=scrapy&logoColor=white">
   </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas - Data analysis library">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-  <a href="https://numpy.org/" target="_blank">
+  <a href="https://numpy.org/" target="_blank" title="NumPy - Scientific computing library">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
-  <a href="https://plotly.com/" target="_blank">
+  <a href="https://plotly.com/" target="_blank" title="Plotly - Data visualization framework">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
-  <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank">
-    <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a>
-  <a href="https://archlinux.org/" target="_blank">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=red">
+  <a href="https://riverbankcomputing.com/software/pyqt/" target="_blank" title="PyQt - GUI library">
+    <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   </a>
 </div>
 
-<!-- Divider (Gradient) -->
+<!-- Gradient Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+
+<!-- Animated Footer -->
+<div align="center">
+  <h3>
+    🚀 Let's Build Something Amazing Together! 🚀
+  </h3>
+  <p>Feel free to reach out via <a href="https://github.com/hamidreza">GitHub</a> or connect with me on <a href="https://linkedin.com">LinkedIn</a>.</p>
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120">
+</div>
