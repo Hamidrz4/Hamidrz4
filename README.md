@@ -50,8 +50,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a href="https://pytorch.org/" target="_blank" title="PyTorch - Deep learning library">
-    <img alt="PyTorch" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Pytorch&logoColor=white">
-  </a>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-D00000?style=for-the-badge&logo=PyTorch&logoColor=white">
+</a>
   <a href="https://streamlit.io/" target="_blank" title="Streamlit - Build data-driven apps">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   </a>
