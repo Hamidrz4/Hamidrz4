@@ -38,7 +38,6 @@
 
 <div align="center">
   <h2>🔥 Tech Stacks I Use 🔥</h2>
-  <p>Hover to glow! ✨</p>
 
   <!-- Tech Badges with Hover Effects -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
