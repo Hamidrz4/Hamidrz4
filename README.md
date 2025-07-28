@@ -75,25 +75,4 @@
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120">
 </div>
 
-<!-- 🧙 CSS Animations (only work outside GitHub Markdown, like on personal pages) -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-@keyframes slide-in {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
+
